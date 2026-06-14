@@ -1,0 +1,13 @@
+cloudhelp_manager/
+├── app/
+│   ├── bot.py
+│   └── config.py
+├── core/
+│   └── constants.py
+├── handlers/
+│   ├── callback.py
+│   └── start.py
+├── keyboards/
+│   └── main_menu.py
+├── .env
+└── requirements.txt
