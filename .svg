@@ -1,0 +1,10 @@
+K-Cloud-JSN/
+│
+├── assets/
+│   ├── banner/
+│   │   └── k-cloud-jsn-banner.svg
+│   │
+│   └── logo/
+│       └── k-cloud-jsn-logo.svg
+│
+└── README.md
