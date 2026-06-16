@@ -1,215 +1,210 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=☁️+K-Cloud+JSN;Cloud+Infrastructure+•+Automation+•+Innovation;Building+Digital+Solutions+for+Tomorrow;Powered+by+CloudHelp+Ecosystem" alt="Typing SVG" />
+<img src="assets/banner/k-cloud-jsn-banner.svg" width="100%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:2563EB,100:38BDF8&text=K-Cloud%20JSN&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Infrastructure%20•%20Automation%20•%20AI%20Solutions&descAlignY=58&animation=fadeIn"/>
+# ☁️ K-Cloud JSN
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure;Automation+Platform;Monitoring+Ecosystem;AI+Powered+Solutions;Building+Digital+Solutions+for+Tomorrow+🚀" />
 
-<img src="https://img.shields.io/badge/Cloud-Infrastructure-2563EB?style=for-the-badge&logo=icloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-Platform-0EA5E9?style=for-the-badge&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-Powered-38BDF8?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-<br><br>
-
-<p align="center">
-Building scalable cloud platforms, automation systems, AI-powered solutions, and modern digital ecosystems for businesses and communities.
-</p>
+### Cloud • Automation • Innovation
 
 </div>
 
 ---
 
-# 🚀 About K-Cloud JSN
+# 🌐 Ecosystem
 
-K-Cloud JSN is a modern technology ecosystem dedicated to cloud computing, automation, artificial intelligence, infrastructure management, and digital transformation.
+```mermaid
+mindmap
+ root((☁️ K-Cloud JSN))
 
-Our goal is to build reliable and innovative solutions that empower businesses, creators, and communities to operate more efficiently in the digital era.
+    CloudHelp
+        Customer Support Platform
+        Ticket Management
+        WhatsApp Automation
+        Telegram Automation
+        Analytics Dashboard
 
----
+    K-Panel
+        Infrastructure Management
+        Server Administration
+        Resource Monitoring
+        Deployment Center
 
-## 🌐 Ecosystem
+    K-Monitor
+        Uptime Monitoring
+        System Alerts
+        Performance Analytics
+        Log Tracking
 
-```text
-☁️ K-Cloud JSN
-│
-├── CloudHelp
-│   ├── Customer Support Platform
-│   ├── Ticket Management
-│   ├── WhatsApp Automation
-│   ├── Telegram Automation
-│   └── Analytics Dashboard
-│
-├── K-Panel
-│   ├── Infrastructure Management
-│   ├── Server Administration
-│   ├── Resource Monitoring
-│   └── Deployment Center
-│
-├── K-Monitor
-│   ├── Uptime Monitoring
-│   ├── System Alerts
-│   ├── Performance Analytics
-│   └── Log Tracking
-│
-└── K-Deploy
-    ├── CI/CD Automation
-    ├── Container Deployment
-    ├── Release Management
-    └── Infrastructure Provisioning
+    K-Deploy
+        CI/CD Automation
+        Container Deployment
+        Release Management
+        Infrastructure Provisioning
 ```
 
 ---
 
-## ⚡ Technology Stack
+# 🏗 Architecture
+
+```mermaid
+flowchart TD
+
+Internet((🌎 Internet))
+
+Internet --> Core["☁️ K-Cloud JSN"]
+
+Core --> CH["💬 CloudHelp"]
+Core --> KP["🖥 K-Panel"]
+Core --> KM["📊 K-Monitor"]
+Core --> KD["🚀 K-Deploy"]
+
+CH --> API["⚡ API Layer"]
+KP --> API
+KM --> API
+KD --> API
+
+API --> DB[("🗄 Database & Storage")]
+```
+
+---
+
+# ⚡ Technology Stack
+
+```mermaid
+graph LR
+
+Python --> FastAPI
+Python --> PostgreSQL
+Python --> Redis
+Python --> Docker
+Docker --> Kubernetes
+Docker --> GitHubActions
+```
+
+---
+
+# 📂 Project Structure
+
+```mermaid
+graph TD
+
+ROOT["☁️ K-Cloud JSN"]
+
+ROOT --> CloudHelp
+ROOT --> KPanel
+ROOT --> KMonitor
+ROOT --> KDeploy
+
+CloudHelp --> Dashboard
+CloudHelp --> TelegramBot
+CloudHelp --> WhatsAppBot
+CloudHelp --> Analytics
+
+ROOT --> APIs
+ROOT --> Infrastructure
+ROOT --> Services
+ROOT --> Documentation
+```
+
+---
+
+# 🚀 CI/CD Pipeline
+
+```mermaid
+flowchart LR
+
+Developer --> GitHub
+GitHub --> Build
+Build --> Test
+Test --> Docker
+Docker --> Deploy
+Deploy --> Production
+```
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,typescript,python,mongodb,postgres,redis,docker,kubernetes,linux,nginx,git,github,vscode&perline=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
 
 </div>
 
 ---
 
-## 🏗️ Architecture Overview
+# 🎯 Roadmap
 
-```text
-                        INTERNET
-                            │
-                            ▼
-                 ┌───────────────────┐
-                 │    K-Cloud JSN    │
-                 └─────────┬─────────┘
-                           │
-        ┌──────────────────┼──────────────────┐
-        │                  │                  │
-        ▼                  ▼                  ▼
- ┌────────────┐     ┌────────────┐     ┌────────────┐
- │ CloudHelp  │     │  K-Panel   │     │ K-Monitor  │
- └─────┬──────┘     └─────┬──────┘     └─────┬──────┘
-       │                  │                  │
-       └──────────┬───────┴──────────┬───────┘
-                  ▼                  ▼
-          ┌─────────────────────────────┐
-          │      API & Services Layer   │
-          └──────────────┬──────────────┘
-                         ▼
-              ┌─────────────────────┐
-              │ Database & Storage  │
-              └─────────────────────┘
+```mermaid
+timeline
+
+2026 Q1
+    Cloud Infrastructure Platform
+    Monitoring Ecosystem
+
+2026 Q2
+    Analytics Dashboard
+    API Gateway
+    Automation Framework
+
+2026 Q3
+    AI Workspace
+    Mobile Application
+
+2026 Q4
+    Multi-Tenant SaaS
+    Kubernetes Integration
+    Enterprise Cloud Suite
 ```
 
 ---
 
-## 📂 Project Structure
+# 🌎 Products
 
-```bash
-K-Cloud-JSN/
-│
-├── CloudHelp/
-│   ├── Dashboard/
-│   ├── Admin/
-│   ├── TelegramBot/
-│   ├── WhatsAppBot/
-│   └── Analytics/
-│
-├── K-Panel/
-├── K-Monitor/
-├── K-Deploy/
-│
-├── Infrastructure/
-├── Services/
-├── APIs/
-├── Documentation/
-│
-├── README.md
-└── LICENSE
+```mermaid
+graph TD
+
+A["☁️ K-Cloud JSN"]
+
+A --> B["💬 CloudHelp"]
+A --> C["🖥 K-Panel"]
+A --> D["📊 K-Monitor"]
+A --> E["🚀 K-Deploy"]
+A --> F["🤖 K-Bot"]
 ```
-
----
-
-## 🌟 Products
-
-| Product | Description |
-|----------|------------|
-| ☁️ CloudHelp | Customer Support & Automation Ecosystem |
-| 🖥️ K-Panel | Cloud Infrastructure Management |
-| 📊 K-Monitor | Monitoring & Alerting Platform |
-| 🤖 K-Bot | Messaging & Workflow Automation |
-| 🚀 K-Deploy | Deployment & Release Automation |
-
----
-
-## 🎯 Roadmap 2026
-
-- ✅ Cloud Infrastructure Platform
-- ✅ Monitoring Ecosystem
-- ✅ Automation Framework
-- ✅ Analytics Dashboard
-- ✅ API Gateway
-- 🔄 AI Workspace
-- 🔄 Mobile Application
-- 🔄 Multi-Tenant SaaS
-- 🔄 Kubernetes Integration
-- 🔄 Enterprise Cloud Suite
-
----
-
-## 🤝 Contributing
-
-```bash
-git clone https://github.com/YOUR_USERNAME/k-cloud-jsn.git
-
-cd k-cloud-jsn
-
-npm install
-
-npm run dev
-```
-
----
-
-## 💡 Vision
-
-> Empowering businesses and communities through cloud technology, intelligent automation, and innovative digital solutions.
 
 ---
 
 <div align="center">
 
-### ☁️ K-Cloud JSN
+<img src="assets/logo/k-cloud-jsn-logo.svg" width="150">
 
-**Cloud • Automation • Innovation**
-
-Building Digital Solutions for Tomorrow 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0F172A,50:2563EB,100:38BDF8"/>
+## Building Digital Solutions for Tomorrow 🚀
 
 </div>
